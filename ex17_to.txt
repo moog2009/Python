@@ -1,0 +1,1 @@
+copy:this is a txt file and it is a original document
